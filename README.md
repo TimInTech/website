@@ -18,4 +18,8 @@ https://linktr.ee/
 
 ## Erweiterungen
 
-https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
+ #I don't care about cookies
+[https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja]
+
+(https://chromewebstore.google.com/detail/nehmen-sie-vollst%C3%A4ndige-w/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=de)
+
