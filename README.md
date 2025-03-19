@@ -14,3 +14,8 @@ https://waydro.id/#wdlinux
 https://linktr.ee/
 
 
+
+
+## Erweiterungen
+
+https://chromewebstore.google.com/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
