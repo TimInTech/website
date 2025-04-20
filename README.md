@@ -8,6 +8,10 @@
 - https://waydro.id/#wdlinux
 - https://linktr.ee/
 - https://distrowatch.com/
+- https://text-to-speech.online/
+- https://news.ycombinator.com/news
+- https://www.zamzar.com/de/convert/md-to-html/
+- https://www.fosshub.com/
 
 
 - ## privacytools
@@ -17,6 +21,7 @@
 
 - https://www.privacyguides.org/en/tools/
 - https://www.privacytools.io/
+- https://awesome-privacy.xyz/
 
 ----
 
@@ -24,9 +29,8 @@
 https://simone.computer/webdesktops Sammlung
 
  - https://puter.com/
- 
- 
-
+ - https://hyperbeam.com/app/
+   
 ## Homeserver
 - https://community-scripts.github.io/ProxmoxVE/scripts
 
