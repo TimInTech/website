@@ -15,6 +15,7 @@
 - https://tr.ee/?utm_source=linktree&utm_medium=nav-link-shortner&utm_campaign=product
 - https://alternativeto.net/
 - https://hyperbeam.com/app/
+- https://ninite.com/
 
 
 - ## privacytools
