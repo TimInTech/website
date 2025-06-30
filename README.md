@@ -17,7 +17,7 @@
 - https://hyperbeam.com/app/
 - https://ninite.com/
 
-
+https://terminaltrove.com/categories/linux/
 - ## privacytools
 - https://www.trash-mail.com/
 - https://10minutemail.net/m/?lang=de
