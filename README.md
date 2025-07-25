@@ -16,6 +16,7 @@
 - https://alternativeto.net/
 - https://hyperbeam.com/app/
 - https://ninite.com/
+- https://moodist.mvze.net/ Umgebungsgeräusche
 
 https://terminaltrove.com/categories/linux/
 - ## privacytools
